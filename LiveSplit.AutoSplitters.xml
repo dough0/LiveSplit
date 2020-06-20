@@ -9054,3 +9054,14 @@
     <Description>Automatic Splitting is available. (By XandoToaster)</Description>
   </AutoSplitter>
 </AutoSplitters>
+    <Games>
+      <Game>LEGO DC Super-Villains</Game>
+    </Games>
+    <URLs>
+      <URL>https://github.com/dough0/dcsv-loadingbad/raw/master/DCSV.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By dough_)</Description>
+  </AutoSplitter>
+</AutoSplitters>
+
